@@ -1,0 +1,16 @@
+C:\Codes\practice new\ifs\first\bin\Debug\net5.0\first.exe
+C:\Codes\practice new\ifs\first\bin\Debug\net5.0\first.deps.json
+C:\Codes\practice new\ifs\first\bin\Debug\net5.0\first.runtimeconfig.json
+C:\Codes\practice new\ifs\first\bin\Debug\net5.0\first.runtimeconfig.dev.json
+C:\Codes\practice new\ifs\first\bin\Debug\net5.0\first.dll
+C:\Codes\practice new\ifs\first\bin\Debug\net5.0\ref\first.dll
+C:\Codes\practice new\ifs\first\bin\Debug\net5.0\first.pdb
+C:\Codes\practice new\ifs\first\obj\Debug\net5.0\first.csproj.AssemblyReference.cache
+C:\Codes\practice new\ifs\first\obj\Debug\net5.0\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\practice new\ifs\first\obj\Debug\net5.0\first.AssemblyInfoInputs.cache
+C:\Codes\practice new\ifs\first\obj\Debug\net5.0\first.AssemblyInfo.cs
+C:\Codes\practice new\ifs\first\obj\Debug\net5.0\first.csproj.CoreCompileInputs.cache
+C:\Codes\practice new\ifs\first\obj\Debug\net5.0\first.dll
+C:\Codes\practice new\ifs\first\obj\Debug\net5.0\ref\first.dll
+C:\Codes\practice new\ifs\first\obj\Debug\net5.0\first.pdb
+C:\Codes\practice new\ifs\first\obj\Debug\net5.0\first.genruntimeconfig.cache

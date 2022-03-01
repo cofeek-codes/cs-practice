@@ -1,0 +1,16 @@
+C:\Codes\practice new\algorythms\eight\bin\Debug\net5.0\eight.exe
+C:\Codes\practice new\algorythms\eight\bin\Debug\net5.0\eight.deps.json
+C:\Codes\practice new\algorythms\eight\bin\Debug\net5.0\eight.runtimeconfig.json
+C:\Codes\practice new\algorythms\eight\bin\Debug\net5.0\eight.runtimeconfig.dev.json
+C:\Codes\practice new\algorythms\eight\bin\Debug\net5.0\eight.dll
+C:\Codes\practice new\algorythms\eight\bin\Debug\net5.0\ref\eight.dll
+C:\Codes\practice new\algorythms\eight\bin\Debug\net5.0\eight.pdb
+C:\Codes\practice new\algorythms\eight\obj\Debug\net5.0\eight.csproj.AssemblyReference.cache
+C:\Codes\practice new\algorythms\eight\obj\Debug\net5.0\eight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\practice new\algorythms\eight\obj\Debug\net5.0\eight.AssemblyInfoInputs.cache
+C:\Codes\practice new\algorythms\eight\obj\Debug\net5.0\eight.AssemblyInfo.cs
+C:\Codes\practice new\algorythms\eight\obj\Debug\net5.0\eight.csproj.CoreCompileInputs.cache
+C:\Codes\practice new\algorythms\eight\obj\Debug\net5.0\eight.dll
+C:\Codes\practice new\algorythms\eight\obj\Debug\net5.0\ref\eight.dll
+C:\Codes\practice new\algorythms\eight\obj\Debug\net5.0\eight.pdb
+C:\Codes\practice new\algorythms\eight\obj\Debug\net5.0\eight.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Codes\practice new\algorythms\fifth\bin\Debug\net5.0\fifth.exe
+C:\Codes\practice new\algorythms\fifth\bin\Debug\net5.0\fifth.deps.json
+C:\Codes\practice new\algorythms\fifth\bin\Debug\net5.0\fifth.runtimeconfig.json
+C:\Codes\practice new\algorythms\fifth\bin\Debug\net5.0\fifth.runtimeconfig.dev.json
+C:\Codes\practice new\algorythms\fifth\bin\Debug\net5.0\fifth.dll
+C:\Codes\practice new\algorythms\fifth\bin\Debug\net5.0\ref\fifth.dll
+C:\Codes\practice new\algorythms\fifth\bin\Debug\net5.0\fifth.pdb
+C:\Codes\practice new\algorythms\fifth\obj\Debug\net5.0\fifth.csproj.AssemblyReference.cache
+C:\Codes\practice new\algorythms\fifth\obj\Debug\net5.0\fifth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\practice new\algorythms\fifth\obj\Debug\net5.0\fifth.AssemblyInfoInputs.cache
+C:\Codes\practice new\algorythms\fifth\obj\Debug\net5.0\fifth.AssemblyInfo.cs
+C:\Codes\practice new\algorythms\fifth\obj\Debug\net5.0\fifth.csproj.CoreCompileInputs.cache
+C:\Codes\practice new\algorythms\fifth\obj\Debug\net5.0\fifth.dll
+C:\Codes\practice new\algorythms\fifth\obj\Debug\net5.0\ref\fifth.dll
+C:\Codes\practice new\algorythms\fifth\obj\Debug\net5.0\fifth.pdb
+C:\Codes\practice new\algorythms\fifth\obj\Debug\net5.0\fifth.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Codes\practice new\algorythms\sixth\bin\Debug\net5.0\sixth.exe
+C:\Codes\practice new\algorythms\sixth\bin\Debug\net5.0\sixth.deps.json
+C:\Codes\practice new\algorythms\sixth\bin\Debug\net5.0\sixth.runtimeconfig.json
+C:\Codes\practice new\algorythms\sixth\bin\Debug\net5.0\sixth.runtimeconfig.dev.json
+C:\Codes\practice new\algorythms\sixth\bin\Debug\net5.0\sixth.dll
+C:\Codes\practice new\algorythms\sixth\bin\Debug\net5.0\ref\sixth.dll
+C:\Codes\practice new\algorythms\sixth\bin\Debug\net5.0\sixth.pdb
+C:\Codes\practice new\algorythms\sixth\obj\Debug\net5.0\sixth.csproj.AssemblyReference.cache
+C:\Codes\practice new\algorythms\sixth\obj\Debug\net5.0\sixth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\practice new\algorythms\sixth\obj\Debug\net5.0\sixth.AssemblyInfoInputs.cache
+C:\Codes\practice new\algorythms\sixth\obj\Debug\net5.0\sixth.AssemblyInfo.cs
+C:\Codes\practice new\algorythms\sixth\obj\Debug\net5.0\sixth.csproj.CoreCompileInputs.cache
+C:\Codes\practice new\algorythms\sixth\obj\Debug\net5.0\sixth.dll
+C:\Codes\practice new\algorythms\sixth\obj\Debug\net5.0\ref\sixth.dll
+C:\Codes\practice new\algorythms\sixth\obj\Debug\net5.0\sixth.pdb
+C:\Codes\practice new\algorythms\sixth\obj\Debug\net5.0\sixth.genruntimeconfig.cache

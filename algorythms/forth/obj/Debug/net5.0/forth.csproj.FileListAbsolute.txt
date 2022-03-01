@@ -1,0 +1,16 @@
+C:\Codes\practice new\algorythms\forth\bin\Debug\net5.0\forth.exe
+C:\Codes\practice new\algorythms\forth\bin\Debug\net5.0\forth.deps.json
+C:\Codes\practice new\algorythms\forth\bin\Debug\net5.0\forth.runtimeconfig.json
+C:\Codes\practice new\algorythms\forth\bin\Debug\net5.0\forth.runtimeconfig.dev.json
+C:\Codes\practice new\algorythms\forth\bin\Debug\net5.0\forth.dll
+C:\Codes\practice new\algorythms\forth\bin\Debug\net5.0\ref\forth.dll
+C:\Codes\practice new\algorythms\forth\bin\Debug\net5.0\forth.pdb
+C:\Codes\practice new\algorythms\forth\obj\Debug\net5.0\forth.csproj.AssemblyReference.cache
+C:\Codes\practice new\algorythms\forth\obj\Debug\net5.0\forth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\practice new\algorythms\forth\obj\Debug\net5.0\forth.AssemblyInfoInputs.cache
+C:\Codes\practice new\algorythms\forth\obj\Debug\net5.0\forth.AssemblyInfo.cs
+C:\Codes\practice new\algorythms\forth\obj\Debug\net5.0\forth.csproj.CoreCompileInputs.cache
+C:\Codes\practice new\algorythms\forth\obj\Debug\net5.0\forth.dll
+C:\Codes\practice new\algorythms\forth\obj\Debug\net5.0\ref\forth.dll
+C:\Codes\practice new\algorythms\forth\obj\Debug\net5.0\forth.pdb
+C:\Codes\practice new\algorythms\forth\obj\Debug\net5.0\forth.genruntimeconfig.cache
