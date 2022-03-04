@@ -1,0 +1,16 @@
+C:\Codes\practice new\files\learn\second\bin\Debug\net5.0\second.exe
+C:\Codes\practice new\files\learn\second\bin\Debug\net5.0\second.deps.json
+C:\Codes\practice new\files\learn\second\bin\Debug\net5.0\second.runtimeconfig.json
+C:\Codes\practice new\files\learn\second\bin\Debug\net5.0\second.runtimeconfig.dev.json
+C:\Codes\practice new\files\learn\second\bin\Debug\net5.0\second.dll
+C:\Codes\practice new\files\learn\second\bin\Debug\net5.0\ref\second.dll
+C:\Codes\practice new\files\learn\second\bin\Debug\net5.0\second.pdb
+C:\Codes\practice new\files\learn\second\obj\Debug\net5.0\second.csproj.AssemblyReference.cache
+C:\Codes\practice new\files\learn\second\obj\Debug\net5.0\second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\practice new\files\learn\second\obj\Debug\net5.0\second.AssemblyInfoInputs.cache
+C:\Codes\practice new\files\learn\second\obj\Debug\net5.0\second.AssemblyInfo.cs
+C:\Codes\practice new\files\learn\second\obj\Debug\net5.0\second.csproj.CoreCompileInputs.cache
+C:\Codes\practice new\files\learn\second\obj\Debug\net5.0\second.dll
+C:\Codes\practice new\files\learn\second\obj\Debug\net5.0\ref\second.dll
+C:\Codes\practice new\files\learn\second\obj\Debug\net5.0\second.pdb
+C:\Codes\practice new\files\learn\second\obj\Debug\net5.0\second.genruntimeconfig.cache
